@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**jpoles1/jpoles1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jordan Poles, I'm an Internal Medicine Physician, Healthcare Researcher, Full-Stack Web Developer, Data Analysis and Visualization Enthusiast, and DIYer (among the many hats I wear).
 
-Here are some ideas to get you started:
+My Github is where I share my many projects, collaborate with others, build, and innovate. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can read more about some of my projects on my [blog](https://blog.jpoles1.com/)
+
+Or check out some of my design work for 3D printing at [Printables](https://www.printables.com/@jpoles1_301817/models)
+
+## Stats
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=jpoles1&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpoles1&theme=dark)
